@@ -1,0 +1,4 @@
+sqlite3
+PyQt5.QtWidgets - QApplication, QMainWindow, QTableWidget, QTableWidgetItem, QAbstractItemView, QHeaderView
+PyQt5.QtCore - Qt
+sys
